@@ -1,1 +1,1 @@
-[{"id":"d2d9c7a8.6163e8","type":"tab","label":"Flow 1","disabled":false,"info":""},{"id":"8a7345a2.2eed58","type":"comment","z":"d2d9c7a8.6163e8","name":"WEB Services","info":"Ajmo to rasturiti","x":290,"y":140,"wires":[]}]
+[{"id":"d2d9c7a8.6163e8","type":"tab","label":"Flow 1","disabled":false,"info":""},{"id":"8a7345a2.2eed58","type":"comment","z":"d2d9c7a8.6163e8","name":"WEB Services","info":"Ajmo to rasturiti","x":410,"y":120,"wires":[]}]
